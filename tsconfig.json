@@ -5,5 +5,6 @@
 		"sourceMap": true,
        "outDir": "dist",
        "experimentalDecorators": true
-  }
+  },
+  "exclude" : [ "node_modules" ]
 }
